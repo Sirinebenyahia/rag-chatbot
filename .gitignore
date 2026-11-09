@@ -1,0 +1,16 @@
+﻿# Secrets
+.env
+
+# Environnement virtuel
+venv/
+.venv/
+
+# Fichiers Python generes
+__pycache__/
+*.pyc
+
+# Documents personnels
+sample_docs/Recommendation Letters (1).pdf
+
+# Divers
+.vscode/

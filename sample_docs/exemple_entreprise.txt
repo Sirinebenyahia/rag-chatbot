@@ -1,0 +1,36 @@
+Présentation de l'entreprise NovaTech Solutions
+
+NovaTech Solutions est une entreprise fondée en 2018, spécialisée dans le développement
+de logiciels d'intelligence artificielle pour les PME. Son siège social se trouve à Lyon,
+en France, et elle compte aujourd'hui 45 employés répartis dans trois bureaux : Lyon,
+Paris et Lisbonne.
+
+Produits principaux :
+1. NovaCRM - un logiciel de gestion de la relation client boosté par l'IA, qui prédit
+   les besoins des clients et automatise les relances commerciales.
+2. NovaAnalytics - une plateforme d'analyse de données permettant aux PME de visualiser
+   leurs indicateurs clés de performance en temps réel.
+3. NovaAssist - un chatbot d'assistance client basé sur des modèles de langage,
+   déployable en quelques clics sur un site web.
+
+Politique de remboursement :
+Tous les abonnements NovaTech bénéficient d'une garantie satisfait ou remboursé de
+30 jours à compter de la date de souscription. Passé ce délai, aucun remboursement
+n'est possible, mais les clients peuvent résilier leur abonnement à tout moment sans
+frais supplémentaires, l'accès restant actif jusqu'à la fin de la période déjà payée.
+
+Support client :
+Le support client est disponible du lundi au vendredi, de 9h à 18h (heure de Paris),
+par chat en direct, email (support@novatech-solutions.fr) et téléphone. Les clients
+avec un abonnement Enterprise bénéficient d'un support prioritaire 24/7.
+
+Tarification (à titre d'exemple) :
+- Offre Starter : 29€/mois, jusqu'à 3 utilisateurs, fonctionnalités de base.
+- Offre Pro : 89€/mois, jusqu'à 15 utilisateurs, automatisations avancées.
+- Offre Enterprise : sur devis, utilisateurs illimités, support prioritaire 24/7,
+  intégrations personnalisées.
+
+Sécurité et confidentialité :
+NovaTech Solutions héberge toutes les données de ses clients sur des serveurs situés
+en Union Européenne, conformément au RGPD. Toutes les données sont chiffrées au repos
+et en transit. Aucune donnée client n'est utilisée pour entraîner des modèles tiers.
